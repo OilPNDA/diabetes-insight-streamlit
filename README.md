@@ -13,12 +13,10 @@ diabetes-prediction-dashboard/
 ├── diabetes_dashboard.py      # Streamlit dashboard file
 ├── requirements.txt           # Python dependencies
 ├── data/
-│   └── diabetes.csv           # Dataset (optional upload)
+│   └── diabetes.csv           # Dataset
 ├── images/
-│   ├── confusion_matrix.png   # (Optional) Plots for README
+│   ├── confusion_matrix.png 
 │   └── shap_summary.png
-└── notebooks/
-    └── eda_modeling.ipynb     # Jupyter notebook for EDA & modeling (optional)
 ```
 
 ---
