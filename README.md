@@ -62,6 +62,7 @@ diabetes-prediction-dashboard/
 
 > SHAP helps explain model decisions by showing how each feature pushes a prediction toward 0 or 1.
 
+![Confusion Matrix](images/confusion_matrix.png)
 ![SHAP Summary](images/shap_summary.png)
 
 ---
