@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Streamlit specific
+.streamlit/
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
